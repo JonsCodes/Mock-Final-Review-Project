@@ -1,0 +1,21 @@
+/* add code here to make your image 300px tall, have a border-radius of 25px, and a 1px black solid border.*/
+img {
+    height: 300px;
+    border-radius: 25px;
+    border: 1px black solid border;
+}
+/* add code here to change the color and font family of your movie's name/title */
+h1 {
+    color: darkslateblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* Bonus: change the color of your list elements */
+
+li {
+    color: blue;
+}
+
+body {
+    color: black;
+    background-color: darkgrey;
+}
